@@ -25,6 +25,7 @@ const Create = () => {
         type="text"
         className="create-form-input"
         onChange={(e) => setTask(e.target.value)}
+        placeholder="Add a task"
         name=""
         id=""
       />
