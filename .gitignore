@@ -1,0 +1,27 @@
+# Node modules
+node_modules
+
+# Logs
+*.log
+
+# Runtime data
+dist
+dist-ssr
+
+# Environment files
+*.local
+
+# Editor directories and files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore ESLint configuration
+.eslintrc.cjs
+
+# Ignore package-lock.json to avoid conflicts
+package-lock.json
